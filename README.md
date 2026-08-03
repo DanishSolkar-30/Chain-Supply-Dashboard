@@ -1,4 +1,5 @@
 📊 Supply Chain Dashboard (Microsoft Excel)
+
 📌 Project Overview
 
 The Supply Chain Dashboard is an interactive Excel data analyticsproject designed to analyze sales, profitability, order volume, customersegments, regional performance, shipping modes, and deliveryperformance.
